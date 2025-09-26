@@ -1,0 +1,4 @@
+#+TITLE: Valorant Lists
+#+OPTIONS: todo:nil tasgs:nil ^:nil
+
+* Lists :LIST:VALORANT:

@@ -1,0 +1,13 @@
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+LATEX_HEADER: \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
+#+TITLE: Valorant Oneoff Tasks
+
+* List of Oneoff Tasks :TASK:ONEOFF:VALORANT:META:
+** TODO Valorant Workflow :STRUCTURE:LAYOUT:
+DEADLINE: <2025-09-27 Sat>
+- *OBJECTIVE:* Create a Valorant workflow:
+  + [ ] =Map= strategies
+  + [ ] =Reflection= sessions
+  + [ ] /Plays/ and /lineups/
+- *Reference:* [[https://old.reddit.com/r/rpg/comments/1ca0uh2/inperson_gms_what_devices_do_you_use_for_gaming/][Discussion on Video Game Note @Reddit]]
