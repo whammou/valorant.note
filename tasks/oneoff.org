@@ -5,7 +5,7 @@
 
 * List of Oneoff Tasks :TASK:ONEOFF:VALORANT:META:
 ** TODO Valorant Workflow :STRUCTURE:LAYOUT:
-DEADLINE: <2025-09-27 Sat>
+DEADLINE: <2025-09-28 Sun>
 - *OBJECTIVE:* Create a Valorant workflow:
   + [ ] =Map= strategies
   + [ ] =Reflection= sessions
