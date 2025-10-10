@@ -4,14 +4,20 @@
 #+TITLE: Valorant Oneoff Tasks
 
 * List of Oneoff Tasks :TASK:ONEOFF:VALORANT:META:
-** TODO Valorant Workflow :STRUCTURE:LAYOUT:
-DEADLINE: <2025-10-11 Sat>
+** WAIT Valorant Workflow :STRUCTURE:LAYOUT:
+DEADLINE: <2025-10-10 Fri>
 - *OBJECTIVE:* Create a Valorant workflow:
   + [ ] =Map= strategies
   + [ ] =Reflection= sessions
   + [ ] /Plays/ and /lineups/
+-----
+- *[NOTE]* taken on [2025-10-10 19:53]: \\
+  It is hard to store =valorant strats= as they are in all kind of formats. Additionally, it is hard to just save a =strat= using plaintext
+-----
 - *Reference:* [[https://old.reddit.com/r/rpg/comments/1ca0uh2/inperson_gms_what_devices_do_you_use_for_gaming/][Discussion on Video Game Note @Reddit]]
-** DOIN Learn Retake Smokes :STRAT:
+*** DOIN Choose Format for Workflow
+- *OBJECTIVE:* Choose a format for storing =strategies= information in
+** NEXT Learn Retake Smokes :STRAT:
 DEADLINE: <2025-10-10 Fri>
 - *OBJECTIVE:* How to retake sites with smokes
 - *Reference:* [[https://www.youtube.com/watch?v=_EMOrEMqcb0][Valorant retake smoke @Youtube]]
