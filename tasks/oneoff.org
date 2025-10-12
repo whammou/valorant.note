@@ -21,3 +21,5 @@ DEADLINE: <2025-10-11 Sat>
 DEADLINE: <2025-10-11 Sat>
 - *OBJECTIVE:* How to retake sites with smokes
 - *Reference:* [[https://www.youtube.com/watch?v=_EMOrEMqcb0][Valorant retake smoke @Youtube]]
+** Learn Spraying :valorantmechanic:
+- *OBJECTIVE:* Learn spray control and spray transfer mechanic in valorant
