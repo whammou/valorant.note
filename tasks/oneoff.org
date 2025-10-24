@@ -5,7 +5,7 @@
 
 * List of Oneoff Tasks :TASK:ONEOFF:VALORANT:META:
 ** TODO Valorant Workflow :STRUCTURE:LAYOUT:
-DEADLINE: <2025-10-23 Thu>
+DEADLINE: <2025-10-24 Fri>
 - *OBJECTIVE:* Create a Valorant workflow:
   + [ ] =Map= strategies
   + [ ] =Reflection= sessions
@@ -18,7 +18,7 @@ DEADLINE: <2025-10-23 Thu>
 *** DOIN Choose Format for Workflow
 - *OBJECTIVE:* Choose a format for storing =strategies= information in
 ** NEXT Learn Retake Smokes :STRAT:
-DEADLINE: <2025-10-23 Thu>
+DEADLINE: <2025-10-24 Fri>
 - *OBJECTIVE:* How to retake sites with smokes
 - *Reference:* [[https://www.youtube.com/watch?v=_EMOrEMqcb0][Valorant retake smoke @Youtube]]
 ** Learn Spraying :valorantmechanic:
