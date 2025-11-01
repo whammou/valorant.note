@@ -17,7 +17,7 @@
 *** DOIN Choose Format for Workflow
 - *OBJECTIVE:* Choose a format for storing =strategies= information in
 ** NEXT Learn Retake Smokes :STRAT:
-DEADLINE: <2025-10-31 Fri>
+DEADLINE: <2025-11-01 Sat>
 - *OBJECTIVE:* How to retake sites with smokes
 - *Reference:* [[https://www.youtube.com/watch?v=_EMOrEMqcb0][Valorant retake smoke @Youtube]]
 ** Learn Spraying :valorantmechanic:
