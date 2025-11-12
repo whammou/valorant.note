@@ -14,7 +14,7 @@
   It is hard to store =valorant strats= as they are in all kind of formats. Additionally, it is hard to just save a =strat= using plaintext
 -----
 - *Reference:* [[https://old.reddit.com/r/rpg/comments/1ca0uh2/inperson_gms_what_devices_do_you_use_for_gaming/][Discussion on Video Game Note @Reddit]]
-*** DOIN Choose Format for Workflow
+*** PEND Choose Format for Workflow
 - *OBJECTIVE:* Choose a format for storing =strategies= information in
 ** TODO Learn Retake Smokes :STRAT:
 - *OBJECTIVE:* How to retake sites with smokes
