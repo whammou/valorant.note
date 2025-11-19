@@ -1,4 +1,0 @@
-#+TITLE: Valorant Logs
-#+OPTIONS: todo:nil tasgs:nil ^:nil
-
-* Logs :LOG:VALORANT:
