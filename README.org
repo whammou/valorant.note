@@ -1,0 +1,40 @@
+#+TITLE: Valorant – Overview
+#+DESCRIPTION: Valorant gaming guides.
+#+FILETAGS: :VALORANT:
+
+* Overview
+  Valorant‑specific gaming notes: strategies, guides, and performance tracking.
+
+* Directory Layout
+  | Path          | Purpose                                                          |
+  |---------------+------------------------------------------------------------------|
+  | =README.org=  | This file – high‑level description (you are reading it)           |
+  | =docs/=       | Org/Markdown documents – notes, guides, references                |
+  | =tasks/=      | Task files (`recurring.org`, `oneoff.org`, …)                    |
+  | =lists/=      | Ordered collections (agent lists, map pools) – optional            |
+  | =assets/=     | Replay files, screenshots, or any binary material – optional       |
+  | =.logs/=      | Log file (`log.org`) – chronological change log                  |
+  | =.git/=       | Git submodule (managed by the super‑repo)                         |
+
+* Tag & State Conventions (inherited from the main repo)
+  - *States* – TODO, PEND, GOING, DONE, ARCHIVED, etc. (see main README).
+  - *Tags* – Use the hierarchical tag format:
+    :VALORANT:<CATEGORY>:<TYPE>:<DETAIL>:
+    Example: =:VALORANT:STRATEGY:AGENT:=
+
+* Typical Files
+  - =docs/<something>.org= – agent guides, map strategies, VOD reviews.
+  - =tasks/recurring.org= – regular practice schedules, VOD review sessions.
+  - =tasks/oneoff.org= – single‑time goals like rank‑up targets.
+  - =assets/…= – screenshots, replay files, highlight clips.
+
+* How to Use
+  1. *Add a note* – create a new Org file under =docs/= and link to it from a task if needed.
+  2. *Create a task* – add a headline under the appropriate file in =tasks/= using the standard TODO states.
+  3. *Tag it* – follow the tag anatomy described above so Org‑mode search works across the whole super‑repo.
+  4. *Commit* – daily commits are encouraged; the super‑repo pulls submodule updates automatically.
+
+* References
+  - Main repository README.org – overall philosophy, state & tag definitions:
+    [[file:../README.org::#STATES and TAGS][Main README – STATES & TAGS]]
+  - External tools: nvim‑orgmode, Orgzly‑android (see main README for integration tips).
