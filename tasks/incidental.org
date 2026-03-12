@@ -4,3 +4,9 @@
 #+TITLE: Valorant Incidental Tasks
 
 * List of Incidental Tasks :TASK:INCIDENTAL:VALORANT:META:
+** WAIT Valorant Maintenance Tomorrow :ScheduledMaintenance:
+SCHEDULED: <2026-03-18 Wed>
+:PROPERTIES:
+:ID: 31f2d5d1-8f46-45d8-a381-a22fef9e7a80
+:END:
+- *OBJECTIVE:*  Scheduled maintenance happening tomorrow. Do not log on
