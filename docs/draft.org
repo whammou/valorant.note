@@ -6,7 +6,7 @@
 #+FILETAGS: :DOC:DRAFT:VALORANT:
 #+HTML:<details>
 
-* Document Drafts :DOC:DRAFT:VALORANT:META:
+* Document Drafts :DOC:DRAFT:VALORANT:#Meta:
 #+HTML:</details>
 
 #+NAME:Warning Message
