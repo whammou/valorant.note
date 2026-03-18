@@ -6,10 +6,10 @@
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+TODO: TODO(t) (e) DOIN(d) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
-#+FILETAGS: :%Doc:#Meta:@Valorant:GAMESENSE:
+#+FILETAGS: :%Doc:meta:VALORANT:GAMESENSE:
 #+HTML:<details>
 
-* Valorant Gamesense Guide :%Doc:#Meta:@Valorant:GAMESENSE:
+* Valorant Gamesense Guide :%Doc:meta:VALORANT:GAMESENSE:
 #+HTML:</details>
 ** Fundamental of Smoke Timing :GAMESENSE:
 There are different kind of smokes that suit each unique situations. And timing is the key to determine which type of smoke you should throw. A few example of smokes are:

@@ -1,6 +1,6 @@
 #+TITLE: Valorant – Overview
 #+DESCRIPTION: Valorant gaming guides.
-#+FILETAGS: :@Valorant:
+#+FILETAGS: :VALORANT:
 
 * Overview
   Valorant‑specific gaming notes: strategies, guides, and performance tracking.
@@ -19,8 +19,8 @@
 * Tag & State Conventions (inherited from the main repo)
   - *States* – TODO, PEND, GOING, DONE, ARCHIVED, etc. (see main README).
   - *Tags* – Use the hierarchical tag format:
-    :@Valorant:<CATEGORY>:<TYPE>:<DETAIL>:
-    Example: =:@Valorant:STRATEGY:AGENT:=
+    :VALORANT:<CATEGORY>:<TYPE>:<DETAIL>:
+    Example: =:VALORANT:STRATEGY:AGENT:=
 
 * Typical Files
   - =docs/<something>.org= – agent guides, map strategies, VOD reviews.
