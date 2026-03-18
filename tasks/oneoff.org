@@ -3,8 +3,8 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TITLE: Valorant Oneoff Tasks
 
-* List of Oneoff Tasks :%Task:_Oneoff:VALORANT:meta:
-** TODO Valorant Workflow :STRUCTURE:LAYOUT:
+* List of Oneoff Tasks :typTask:catOneoff:VALORANT:meta:
+** TODO Valorant Workflow :_Structure:_Layout:
 - *OBJECTIVE:* Create a Valorant workflow:
   + [ ] =Map= strategies
   + [ ] =Reflection= sessions
