@@ -2,10 +2,11 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TITLE: Valorant Incidental Tasks
 
-* List of Incidental Tasks :typTask:catIncidental:VALORANT:meta:
-** WAIT Valorant Maintenance Tomorrow :ScheduledMaintenance:
+* DONE List of Incidental Tasks :typTask:catIncidental:VALORANT:meta:
+CLOSED: [2026-03-19 Thu 04:01]
+** WAIT Valorant Maintenance Tomorrow :PlatformMaintenance:
 SCHEDULED: <2026-03-18 Wed>
 :PROPERTIES:
-:ID: 31f2d5d1-8f46-45d8-a381-a22fef9e7a80
+:ID:       31f2d5d1-8f46-45d8-a381-a22fef9e7a80
 :END:
 - *OBJECTIVE:*  Scheduled maintenance happening tomorrow. Do not log on
