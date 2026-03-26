@@ -3,7 +3,7 @@
 #+TITLE: Valorant Oneoff Tasks
 
 * List of Oneoff Tasks :typTask:catOneoff:VALORANT:meta:
-** TODO Valorant Workflow :_Structure:_Layout:
+** TODO Valorant Workflow :opStructure:opLayout:
 - *OBJECTIVE:* Create a Valorant workflow:
   + [ ] =Map= strategies
   + [ ] =Reflection= sessions
@@ -15,7 +15,7 @@
 - *Reference:* [[https://old.reddit.com/r/rpg/comments/1ca0uh2/inperson_gms_what_devices_do_you_use_for_gaming/][Discussion on Video Game Note @Reddit]]
 *** PEND Choose Format for Workflow
 - *OBJECTIVE:* Choose a format for storing =strategies= information in
-** TODO Learn Retake Smokes :_Strategy:
+** TODO Learn Retake Smokes :opStrategy:
 - *OBJECTIVE:* How to retake sites with smokes
 - *Reference:* [[https://www.youtube.com/watch?v=_EMOrEMqcb0][Valorant retake smoke @Youtube]]
 ** Learn Spraying :valorantmechanic:
