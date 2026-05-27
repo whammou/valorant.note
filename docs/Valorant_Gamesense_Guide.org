@@ -3,14 +3,10 @@
 :END:
 #+TITLE: Valorant Gamesense Guide
 
-#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :typDoc:meta:VALORANT:GAMESENSE:
-#+HTML:<details>
-
-* Valorant Gamesense Guide :typDoc:meta:VALORANT:GAMESENSE:
-#+HTML:</details>
-** Fundamental of Smoke Timing :GAMESENSE:
+* [#A] Fundamental of Smoke Timing :GAMESENSE:
 There are different kind of smokes that suit each unique situations. And timing is the key to determine which type of smoke you should throw. A few example of smokes are:
   - Entry smokes
   - Stalling/retake smokes
