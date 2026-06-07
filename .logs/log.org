@@ -1,4 +1,5 @@
-#+TITLE: Valorant Logs
-#+OPTIONS: todo:nil tasgs:nil ^:nil
+#+TITLE: Valorant Log
+#+DESCRIPTION: Logs of finished items
+#+FILETAGS: :VALORANT:LOG:
 
 * Logs :LOG:VALORANT:
