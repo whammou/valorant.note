@@ -1,5 +1,5 @@
 #+TITLE: Valorant Log
 #+DESCRIPTION: Logs of finished items
-#+FILETAGS: :VALORANT:LOG:
+#+FILETAGS: :topValorant:LOG:
 
-* Logs :LOG:VALORANT:
+* Logs :LOG:topValorant:
