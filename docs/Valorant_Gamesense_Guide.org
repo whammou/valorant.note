@@ -2,7 +2,6 @@
 :ID: 9a369635-c6b0-4bc0-81c3-c62be282087f
 :END:
 #+TITLE: Valorant Gamesense Guide
-
 #+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :topValorant:typDoc:meta:GAMESENSE:
